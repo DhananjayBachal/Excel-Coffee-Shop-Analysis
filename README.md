@@ -97,10 +97,9 @@ The dashboard provides interactive insights into:
 
 ## 📷 Dashboard Preview
 
-
-![Dashboard](Dashboard Preview.png)
-
-
+<p align="center">
+  <img src="dashboard-preview.png" alt="Coffee Shop Sales Dashboard" width="100%">
+</p>
 ---
 
 ## 📊 Dashboard Components
