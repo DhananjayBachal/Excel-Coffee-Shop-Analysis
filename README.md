@@ -97,9 +97,8 @@ The dashboard provides interactive insights into:
 
 ## 📷 Dashboard Preview
 
-```md
+
 ![Dashboard Preview](Dashboard Preview.png)
-```
 
 ---
 
