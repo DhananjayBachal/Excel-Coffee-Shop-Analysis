@@ -168,7 +168,7 @@ This dataset is provided by **Maven Analytics Data Playground** for learning and
 
 Electronics & Telecommunication Engineering Student | Aspiring Data Analyst
 
-- 💼 LinkedIn: https://www.linkedin.com/in/dhananjay-bachal-09a6aa2b5/
+- 💼 LinkedIn: https://www.linkedin.com/in/dhananjay-bachal/
 - 🐙 GitHub: https://github.com/DhananjayBachal
 
 ---
